@@ -1,0 +1,23 @@
+.main{
+    width: 100vw;
+
+}
+.fluid-img{
+    width:100%;
+    height: auto;
+    padding: 0;
+
+    background: #000;
+}
+.clas-container{
+    display: flex;
+    position: relative;
+    
+}
+.text{
+    bottom: 0;
+    font-size:100px;
+    position: absolute;
+    color: aliceblue;
+    padding: 50px;
+}
